@@ -2,6 +2,8 @@
 
 Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van Arduino. Zie http://BasOnTech.nl
 
+Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
+
 ## Arduino Lessen overzicht
 - [Les 1: Knipperende LED](https://www.youtube.com/watch?v=meo_OyqEbiM)  
 [![](https://i.ytimg.com/vi/meo_OyqEbiM/mqdefault.jpg)](https://www.youtube.com/watch?v=meo_OyqEbiM)
@@ -37,5 +39,3 @@ Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van A
 ## Arduino Projecten overzicht
 - [Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)  
 [![](https://i.ytimg.com/vi/WHSDtcwUx2Y/mqdefault.jpg)](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
-
-http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
