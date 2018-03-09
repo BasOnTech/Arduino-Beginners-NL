@@ -42,7 +42,7 @@ void playMelody() {
     // het is gebleken dat de nootlengte plus 30% goed werkt, vandaar de 1.30
     int pauseBetweenNotes = noteDuration * 1.30;
 
-    // pauzeer vooo de berekende duur
+    // pauzeer voor de berekende duur
     delay(pauseBetweenNotes);
     
     // stop het spelen van de huidige noot
