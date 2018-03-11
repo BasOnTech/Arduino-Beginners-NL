@@ -56,6 +56,11 @@ void loop() {
 
 void update() {
 
+  /* LET OP: voor illustratieve doeleinden heb ik in deze interrupt functie gebruik gemaakt van Serial.println
+   * Omdat de Serial bibliotheek zelf ook gebruikt maakt van interrupts kan dit problemen geven.
+   * Maak daarom in je eigen projecten geen gebruik van Serial functies in interrupt functies
+   */
+
   // ROTATIE RICHTING
   pinAstateCurrent = digitalRead(pinA);    // Lees de huidige staat van Pin A
   
