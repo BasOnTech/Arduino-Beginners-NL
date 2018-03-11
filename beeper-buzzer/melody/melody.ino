@@ -29,7 +29,12 @@ void loop() {
 void playMelody() {
   
   // loop door alle noten in melody[]
-  for (int i = 0; i < sizeof(melody); i++) {
+  // In de video staat hier nog sizeof(melody) Het is echter gebleken dat sizeof een verkeerde waarde
+  // kan teruggeven waardoor er een geheugenfout ontstaat. Hierdoor kan de buzzer na de melodie nog
+  // een bibberend geluid blijven geven.
+  //
+  // 8 is het totaal aantal noten
+  for (int i = 0; i < 8; i++) {
 
     // om de lengte van de noten te berekenen nemen we 1 seconden en delen deze door het type noot
     // bijv. een kwart noot = 1000 / 4, een achtste noot = 1000/8, etc.
