@@ -37,7 +37,7 @@ void playMelody() {
   for (int i = 0; i < 8; i++) {
 
     // om de lengte van de noten te berekenen nemen we 1 seconden en delen deze door het type noot
-    // bijv. een kwart noot = 1000 / 4, een achtste noot = 1000/8, etc. 
+    // bijv. een kwart noot = 1000 / 4, een achtste noot = 1000/8, etc.
     int noteDuration = 1000 / noteDurations[i];
 
     // Roep tone() aan met de huidige noot van de melodie en de lengte van de huidige noot.
