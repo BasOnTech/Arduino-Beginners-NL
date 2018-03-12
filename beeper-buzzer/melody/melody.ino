@@ -32,7 +32,7 @@ void playMelody() {
    *
    * In de video staat hier nog sizeof(melody) Het is echter gebleken dat sizeof een verkeerde waarde
    * kan teruggeven waardoor er een geheugenfout ontstaat. Hierdoor kan de buzzer na de melodie nog
-   * een bibberend geluid blijven geven. De 8 staat voor het totaal aantal noten.
+   * een bibberend geluid blijven geven. De 8 staat voor het totaal aantal noten. 
    */
   for (int i = 0; i < 8; i++) {
 
