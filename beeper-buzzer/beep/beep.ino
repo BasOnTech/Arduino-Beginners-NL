@@ -1,5 +1,5 @@
 // Bas on Tech - Arduino tutorial 10 - deel 1
-// http://basontech.nl
+// https://arduino-lessen.nl
 
 int buzzerPin = 12;                 // stel de variable "buzzerPin" in op pin 12
 

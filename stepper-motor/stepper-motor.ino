@@ -1,6 +1,6 @@
 /*
  * Bas on Tech - Arduino tutorial stappenmotor 28BYJ-48
- * http://basontech.nl
+ * https://arduino-lessen.nl
  * 
  * Originele code van:
  * http://www.airspayce.com/mikem/arduino/AccelStepper/index.html door Mike McCauley

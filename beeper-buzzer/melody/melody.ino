@@ -1,5 +1,5 @@
 // Bas on Tech - Arduino tutorial 10 - deel 2
-// http://basontech.nl
+// https://arduino-lessen.nl
 
 // Importeer de toonhoogstes van de noten
 #include "pitches.h"

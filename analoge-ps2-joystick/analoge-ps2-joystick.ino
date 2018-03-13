@@ -1,6 +1,6 @@
 /*
  * Bas on Tech - Arduino tutorial 9
- * http://basontech.nl
+ * https://arduino-lessen.nl
  *
  *
  * PIN AANSLUITINGEN

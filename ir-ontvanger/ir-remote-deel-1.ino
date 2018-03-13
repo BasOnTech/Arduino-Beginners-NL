@@ -1,6 +1,6 @@
 /*
  * Bas on Tech - Arduino tutorial 8 - deel 1
- * http://basontech.nl
+ * https://arduino-lessen.nl
  * 
  * Originele code van:
  * http://arcfn.com door Ken Shirriff

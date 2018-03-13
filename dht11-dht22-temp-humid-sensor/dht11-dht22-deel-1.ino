@@ -1,6 +1,6 @@
 /*
  * Bas on Tech - Arduino tutorial
- * http://basontech.nl
+ * https://arduino-lessen.nl
  * 
  *
  * PIN AANSLUITINGEN DHT11 & DHT22

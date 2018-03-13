@@ -1,5 +1,5 @@
 // Bas on Tech - Arduino tutorial 2
-// http://basontech.nl
+// https://arduino-lessen.nl
 
 // De setup functie wordt eenmalig uitgevoerd als je programma start
 void setup() {

@@ -1,6 +1,6 @@
 /*
  * Bas on Tech - Arduino tutorial 11 - deel 3
- * http://basontech.nl
+ * https://arduino-lessen.nl
  * 
  * Meer informatie over I2C: https://nl.wikipedia.org/wiki/I%C2%B2C-bus
  *

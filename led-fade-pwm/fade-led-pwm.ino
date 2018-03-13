@@ -1,5 +1,5 @@
 // Bas on Tech - Arduino tutorial 3
-// http://basontech.nl
+// https://arduino-lessen.nl
 
 // Geef aan welke PWM pin er gebruikt wordt
 int ledPin = 11;

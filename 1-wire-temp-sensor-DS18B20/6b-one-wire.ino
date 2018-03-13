@@ -1,5 +1,5 @@
 // Bas on Tech - Arduino tutorial 6b
-// http://basontech.nl
+// https://arduino-lessen.nl
 
 // Importeer de benodigde bibliotheken
 #include <OneWire.h>

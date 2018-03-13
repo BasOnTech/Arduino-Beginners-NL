@@ -1,5 +1,5 @@
 // Bas on Tech - Arduino tutorial 5
-// http://basontech.nl
+// https://arduino-lessen.nl
 
 int switchPin = 12;                     // drukknop pin
 int ledPin = LED_BUILTIN;               // ingebouwde LED pin

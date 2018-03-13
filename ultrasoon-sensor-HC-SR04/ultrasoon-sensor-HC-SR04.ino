@@ -1,6 +1,6 @@
 /*
  * Bas on Tech - Arduino tutorial 7
- * http://basontech.nl
+ * https://arduino-lessen.nl
  * 
  * Originele code van:
  * https://create.arduino.cc/projecthub/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-036380

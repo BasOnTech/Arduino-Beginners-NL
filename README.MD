@@ -1,6 +1,6 @@
 # Nederlandstalige Arduino lessen
 
-Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van Arduino. Zie http://BasOnTech.nl
+Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van Arduino. Zie https://arduino-lessen.nl
 
 Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
 

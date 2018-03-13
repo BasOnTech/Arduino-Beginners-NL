@@ -1,5 +1,5 @@
 /*
- * Bas on Tech - http://basontech.nl
+ * Bas on Tech - https://arduino-lessen.nl
  * 
  * Meer informatie over Rotary Encoder: 
  *   https://nl.wikipedia.org/wiki/Encoder
