@@ -6,9 +6,8 @@
 
 //// DRUKKNOP ////
 
-static const int buttonPin = 12;      // drukknop pin
-int buttonState = LOW;                // huidige staat van de drukknop
-int buttonStatePrevious = LOW;        // vorige staat van de drukknop
+static const int buttonPin = 12;                    // drukknop pin
+int buttonStatePrevious = LOW;                      // vorige staat van de drukknop
 
 unsigned long minButtonLongPressDuration = 3000;    // Tijd in milliseconden totdat van "lang drukken" kan worden gesproken
 unsigned long buttonLongPressMillis;                // tijdstip in ms waarop knop is ingedrukt
@@ -18,7 +17,6 @@ const int intervalButton = 50;                      // Tijd in milliseconden tus
 unsigned long previousButtonMillis;                 // Tijdstip van laatste uitlezing staat drukknop
 
 unsigned long buttonPressDuration;                  // Tijd dat drukknop is ingedrukt in ms
-
 
 //// ALGEMEEN ////
 
@@ -39,7 +37,7 @@ void readButtonState() {
   if(currentMillis - previousButtonMillis > intervalButton) {
     
     // Lees de digitale waarde van de drukknop (LOW/HIGH)
-    buttonState = digitalRead(buttonPin);    
+    int buttonState = digitalRead(buttonPin);    
 
     // Als de knop is ingedrukt EN
     // De knop was eerder nog niet ingedrukt EN 
@@ -79,8 +77,8 @@ void readButtonState() {
     previousButtonMillis = currentMillis;
 
   }
-}
 
+}
 
 void loop() {
 
