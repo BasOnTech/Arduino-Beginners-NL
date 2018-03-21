@@ -11,5 +11,8 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 5. Sla het bestand op de gewenste locatie op
 6. Open het gedownloade .ino bestand in de Arduino software
 
+## De schakeling
+![alt text](./led-knipperen-breadboard.png "schakel schema")
+
 ## Video
 [![](http://img.youtube.com/vi/KgMocAMAJvg/0.jpg)](https://www.youtube.com/watch?v=KgMocAMAJvg "Knipperende LED op breadboard")
