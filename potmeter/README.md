@@ -15,5 +15,4 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 ![alt text](./potmeter.png "schakel schema")
 
 ## Video
-
 [![](http://img.youtube.com/vi/eTlsoSDBz7Y/0.jpg)](https://www.youtube.com/watch?v=eTlsoSDBz7Y "Knipperende LED met potmeter")

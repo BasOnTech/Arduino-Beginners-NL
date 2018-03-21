@@ -12,7 +12,4 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 6. Open het gedownloade .ino bestand in de Arduino software
 
 ## De schakeling
-![alt text](./drukknop.png "schakel schema")
-
-## Video
-[![](http://img.youtube.com/vi/HKh-zfgpzGM/0.jpg)](https://www.youtube.com/watch?v=HKh-zfgpzGM "LED aan/uit met drukknop")
+![alt text](./drukknop-long-press.png "schakel schema")
