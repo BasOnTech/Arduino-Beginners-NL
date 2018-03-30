@@ -19,7 +19,7 @@
  * 
  */
 
-const int voltageSensorPin = 3;           // sensor pin
+const int voltageSensorPin = A3;          // sensor pin
 float vIn;                                // gemeten voltage (3.3V = max. 16.5V, 5V = max 25V)
 float vOut;
 float voltageSensorVal;                   // waarde op pin A3 (0 - 1023)
@@ -33,7 +33,7 @@ void setup() {
 void loop() {
 
   voltageSensorVal = analogRead(voltageSensorPin);    // lees de waarde van de sensor (0 - 1023) 
-  vOut = (voltageSensorVal / 1023) * vCC;             // converteer de gelezen waarde naar het daadwerkelijke voltage op de analoge pin
+  vOut = (voltageSensorVal / 1024) * vCC;             // converteer de gelezen waarde naar het daadwerkelijke voltage op de analoge pin
   vIn =  vOut * factor;                               // converteer het voltage naar het voltage aan de bron door te vermenigvuldigen met de factor
 
   Serial.print("Voltage = ");             
