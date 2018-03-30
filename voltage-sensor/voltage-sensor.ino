@@ -22,7 +22,7 @@
 const int voltageSensorPin = 3;           // sensor pin
 float vIn;                                // gemeten voltage (3.3V = max. 16.5V, 5V = max 25V)
 float vOut;
-float voltageSensorVal;                   // waarde op pin A0 (0 - 1023)
+float voltageSensorVal;                   // waarde op pin A3 (0 - 1023)
 const float factor = 4.092;               // reductie factor van het Voltage Sensor shield
 const float vCC = 5.00;                   // Arduino invoer voltage (na te meten met voltmeter)
 
