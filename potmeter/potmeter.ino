@@ -1,7 +1,7 @@
 // Bas on Tech - Arduino tutorial 4
 // https://arduino-lessen.nl
 
-int potPin = 2;               // Potmeter pin
+int potPin = A2;              // Potmeter pin
 int ledPin = LED_BUILTIN;     // Ingebouwde LED pin
 int potVal = 0;               // Waarde van potmeter
 
