@@ -29,10 +29,10 @@ void setup() {
 
 void loop() {
   digitalWrite(trigPin, LOW);       // zet de trigPin op LOW
-  delayMicroseconds(2);             // wacht 2ms zodat de trigPin ook daadwerkelijk LOW is
+  delayMicroseconds(2);             // wacht 2 microseconden zodat de trigPin ook daadwerkelijk LOW is
 
   digitalWrite(trigPin, HIGH);      // zet de trigPin op HIGH om ultrasoon geluid te zenden
-  delayMicroseconds(10);            // wacht 10ms
+  delayMicroseconds(10);            // wacht 10 microseconden
   digitalWrite(trigPin, LOW);       // set de trigPin op LOW om het zenden te stoppen
 
   duration = pulseIn(echoPin, HIGH);     // vraag de tijdsduur op van hoe lang de echoPin HIGH was
