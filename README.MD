@@ -4,13 +4,23 @@ Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van A
 
 Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
 
-## Arduino bestand downloaden
-1. Ga naar de Github pagina die bij de les hoort, daar zie je een lijst met bestanden met bijvoorbeeld "potmeter.ino".
-2. Klik op "potmeter.ino"
-3. Als het goed is zie je een knop "RAW", klik hierop met je *rechter* muisknop (<kbd>CTRL</kbd>+ klik voor eenknops muizen)
-4. Kies uit het menu "link opslaan als", "save link as" (net hoe je browser het noemt)
-5. Sla het bestand op de gewenste locatie op
-6. Open het gedownloade .ino bestand in de Arduino software
+## Social media
+- YouTube:    https://www.youtube.com/c/BasOnTechNL
+- Facebook:   https://www.facebook.com/BasOnTechChannel
+- Instagram:  https://www.instagram.com/BasOnTech
+- Twitter:    https://twitter.com/BasOnTech
+
+## Arduino Projecten overzicht
+- [Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)  
+[![](https://i.ytimg.com/vi/WHSDtcwUx2Y/mqdefault.jpg)](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
+
+## Arduino programmeer theorie overzicht
+- [Binair tellen](https://www.youtube.com/watch?v=kG8_L59gmVU)  
+[![](https://i.ytimg.com/vi/kG8_L59gmVU/mqdefault.jpg)](https://www.youtube.com/watch?v=kG8_L59gmVU)
+- [Variabelen en constanten](https://www.youtube.com/watch?v=Tjs2vnAbpo8)  
+[![](https://i.ytimg.com/vi/Tjs2vnAbpo8/mqdefault.jpg)](https://www.youtube.com/watch?v=Tjs2vnAbpo8)
+- [Functies en scopes](https://www.youtube.com/watch?v=F4gu9rXmHks)  
+[![](https://i.ytimg.com/vi/F4gu9rXmHks/mqdefault.jpg)](https://www.youtube.com/watch?v=F4gu9rXmHks)
 
 ## Arduino Lessen overzicht
 - [Les 1: Knipperende LED](https://www.youtube.com/watch?v=meo_OyqEbiM)  
@@ -43,7 +53,11 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 [![](https://i.ytimg.com/vi/2eKUI7Cq1nM/mqdefault.jpg)](https://www.youtube.com/watch?v=2eKUI7Cq1nM)
 - [Les 14: 28BYJ-48 stappenmotor met ULN2003 driver](https://www.youtube.com/watch?v=4CtMKN3wuDA)  
 [![](https://i.ytimg.com/vi/4CtMKN3wuDA/mqdefault.jpg)](https://www.youtube.com/watch?v=4CtMKN3wuDA)
+- [Les 15: Long press drukknop](https://www.youtube.com/watch?v=O4Sqq56CZUE)  
+[![](https://i.ytimg.com/vi/O4Sqq56CZUE/mqdefault.jpg)](https://www.youtube.com/watch?v=O4Sqq56CZUE)
+- [Les 16: Grafisch SPI 128x64 LCD display met ST7920 controller](https://www.youtube.com/watch?v=bo3I4XBHRGY)  
+[![](https://i.ytimg.com/vi/bo3I4XBHRGY/mqdefault.jpg)](https://www.youtube.com/watch?v=bo3I4XBHRGY)
+- [Les 17: Voltage sensor](https://www.youtube.com/watch?v=GyeyOUjbjmE)  
+[![](https://i.ytimg.com/vi/GyeyOUjbjmE/mqdefault.jpg)](https://www.youtube.com/watch?v=GyeyOUjbjmE)
 
-## Arduino Projecten overzicht
-- [Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)  
-[![](https://i.ytimg.com/vi/WHSDtcwUx2Y/mqdefault.jpg)](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
+
