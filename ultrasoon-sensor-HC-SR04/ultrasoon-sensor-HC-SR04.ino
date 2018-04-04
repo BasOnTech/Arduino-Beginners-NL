@@ -47,7 +47,9 @@ void loop() {
   delayMicroseconds(10);            // wacht 10 microseconden
   digitalWrite(trigPin, LOW);       // set de trigPin op LOW om het zenden te stoppen
 
-  duration = pulseIn(echoPin, HIGH);     // vraag de tijdsduur op van hoe lang de echoPin HIGH was
+  duration = pulseIn(echoPin, HIGH);     // vraag de tijdsduur op van hoe lang de echoPin HIGH was. 
+                                         // Let op dat pulseIn het programma voor pauseert totdat er een signaal terug is ontvangen
+                                         // standaard is de timeout 1 seconden. Dus het programma staat maximaal 1 seconde stil.
   distance = (duration * 0.0343) / 2;    // bereken de afstand aan de hand van de snelheid van het geluid
                                          // dit getal moet door 2 worden gedeeld omdat het geluid heen en terug is gegaan.
   Serial.print("Afstand: ");             // Toon het resultaat op de seriële monitor
