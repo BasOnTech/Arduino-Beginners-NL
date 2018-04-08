@@ -15,20 +15,28 @@
   * 
   * NOKIA 5110 DISPLAY PIN LAYOUT
   * 
-  * 1. RST   Reset
-  * 2. CE    Chip Enable
-  * 3. DC    Data/Command selection (HIGH = data, LOW = command)
-  * 4. DIN   Data in
-  * 5. CLK   Clock
-  * 6. VCC   2.7V - 3.3V
-  * 7. LED   Backlight
-  * 8. GND   Ground
+  * RST                Reset
+  * CE/CS/CSE          Chip Enable / Chip Select
+  * DC                 Data/Command selection (HIGH = data, LOW = command)
+  * DIN/DN/MOSI/DATA   Data in
+  * CLK/SCLK/SCK       Clock
+  * VCC                2.7V - 3.3V
+  * LED/LIGHT          Backlight
+  * GND                Ground
+  * 
   * 
   * PROBLEMEN OPLOSSEN
   * 
   * Mogelijke problemen als de joystick shield schakelaar op 3.3V staat ipv 5V:
   * - De joystick drukknop werkt niet
   * - De joystick waarden liggen tussen 0 en 659 ipv 0 en 1023
+  * 
+  * #define RST 12
+  * #define CE  13
+  * #define DC  11
+  * #define DIN 10
+  * #define CLK  9
+  * U8G2_PCD8544_84X48_1_4W_SW_SPI u8g2(U8G2_R0, CLK, DIN, CE, DC, RST);
   * 
   */
 
