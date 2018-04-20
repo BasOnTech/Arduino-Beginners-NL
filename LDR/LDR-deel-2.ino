@@ -14,12 +14,11 @@
  */
 
 int ldrPin = A0;              // LDR pin
+int ldrVal = 0;               // Waarde van LDR
 int ledPin = LED_BUILTIN;     // Ingebouwde LED pin
-int ldrVal = 0;               // Waarde van potmeter
 
 void setup() {
   Serial.begin(9600);         // Stel de seriële monitor in
-  pinMode(ledPin, OUTPUT);    // Stel de ledPin in als uitvoer
 }
 
 // Herhaal oneindig
