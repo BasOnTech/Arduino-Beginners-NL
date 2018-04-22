@@ -18,8 +18,8 @@ int ledPin = 11;
 
 // Voer uit bij de start van programma
 void setup() {
-  // Initialiseer digitale pin LED_BUILTIN als een uitvoer
-  pinMode(LED_BUILTIN, OUTPUT);
+  // Initialiseer digitale pin ledPin als een uitvoer
+  pinMode(ledPin, OUTPUT);
 }
 
 // Herhaal oneindig
