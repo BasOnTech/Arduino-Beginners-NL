@@ -10,6 +10,9 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 - Instagram:  https://www.instagram.com/BasOnTech
 - Twitter:    https://twitter.com/BasOnTech
 
+## Diverse Arduino schetsen (alleen code)
+- [Twee contra fadende LED's](https://gist.github.com/BasOnTech/a5476405f6c6c5f4e8da0d87239b659d)  
+
 ## Arduino Projecten overzicht
 - [Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)  
 [![](https://i.ytimg.com/vi/WHSDtcwUx2Y/mqdefault.jpg)](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
@@ -21,6 +24,8 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 [![](https://i.ytimg.com/vi/Tjs2vnAbpo8/mqdefault.jpg)](https://www.youtube.com/watch?v=Tjs2vnAbpo8)
 - [Functies en scopes](https://www.youtube.com/watch?v=F4gu9rXmHks)  
 [![](https://i.ytimg.com/vi/F4gu9rXmHks/mqdefault.jpg)](https://www.youtube.com/watch?v=F4gu9rXmHks)
+- [Logica met NOT, AND en OR](https://www.youtube.com/watch?v=DCA0RZYbgvg)  
+[![](https://i.ytimg.com/vi/DCA0RZYbgvg/mqdefault.jpg)](https://www.youtube.com/watch?v=DCA0RZYbgvg)
 
 ## Arduino Lessen overzicht
 - [Les 1: Knipperende LED](https://www.youtube.com/watch?v=meo_OyqEbiM)  
@@ -59,5 +64,11 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 [![](https://i.ytimg.com/vi/bo3I4XBHRGY/mqdefault.jpg)](https://www.youtube.com/watch?v=bo3I4XBHRGY)
 - [Les 17: Voltage sensor](https://www.youtube.com/watch?v=GyeyOUjbjmE)  
 [![](https://i.ytimg.com/vi/GyeyOUjbjmE/mqdefault.jpg)](https://www.youtube.com/watch?v=GyeyOUjbjmE)
+- [Les 18: Grafisch 128X64 I2C OLED display met SSD1306 controller](https://www.youtube.com/watch?v=kGpMO7PRYK4)  
+[![](https://i.ytimg.com/vi/kGpMO7PRYK4/mqdefault.jpg)](https://www.youtube.com/watch?v=kGpMO7PRYK4)
+- [Les 19: MFRC-522 RFID lezer](https://www.youtube.com/watch?v=ttiVOKlyohI)  
+[![](https://i.ytimg.com/vi/ttiVOKlyohI/mqdefault.jpg)](https://www.youtube.com/watch?v=ttiVOKlyohI)
+- [Les 20: Lichtgevoelige weerstand (LDR) uitlezen](https://www.youtube.com/watch?v=HcoPGiV9SUU)  
+[![](https://i.ytimg.com/vi/HcoPGiV9SUU/mqdefault.jpg)](https://www.youtube.com/watch?v=HcoPGiV9SUU)
 
 
