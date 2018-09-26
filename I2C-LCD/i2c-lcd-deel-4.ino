@@ -35,7 +35,7 @@
  * SCL --> A5  blauw
  * 
  * 
- * I2C aanlsluitingen per Arduino:
+ * I2C aansluitingen per Arduino:
  * Uno, Ethernet    A4 (SDA), A5 (SCL)
  * Mega2560         20 (SDA), 21 (SCL)
  * Leonardo          2 (SDA),  3 (SCL)
