@@ -31,12 +31,6 @@
   * - De joystick drukknop werkt niet
   * - De joystick waarden liggen tussen 0 en 659 ipv 0 en 1023
   * 
-  * #define RST 12
-  * #define CE  13
-  * #define DC  11
-  * #define DIN 10
-  * #define CLK  9
-  * U8G2_PCD8544_84X48_1_4W_SW_SPI u8g2(U8G2_R0, CLK, DIN, CE, DC, RST);
   * 
   */
 
