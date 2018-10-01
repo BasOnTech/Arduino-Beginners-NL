@@ -1,5 +1,5 @@
  /*
-  * Bas on Tech - 1-wire temperatuursensor
+  * Bas on Tech - Analog PS2 joystick
   * Deze les is onderdeel van de lessen op https://arduino-lessen.nl
   *  
   * (c) Copyright 2018 - Bas van Dijk / Bas on Tech
