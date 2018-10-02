@@ -4,4 +4,4 @@ Onderdeel van Bas on Tech Nederlandstalige Arduino lessen - Zie https://arduino-
 Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
 
 ## De schakeling
-![alt text](./ldr.png "schakel schema")
+![alt text](./LDR.png "schakel schema")
