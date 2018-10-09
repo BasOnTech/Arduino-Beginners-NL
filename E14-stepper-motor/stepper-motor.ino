@@ -26,7 +26,7 @@
 #define motorPin4  11               // IN4 pin op de ULN2003A driver
 
 int stepsPerRevolution = 64;        // stappen per omwenteling
-int degreePerRevolution = 5.625;    // graden per omwenteling
+int degreePerRevolution = 5.625;    // graden per stap
 
 /*
  * AccelStepper::FULL2WIRE (2) betekend een 2 wire stepper (2 pins nodig). 
@@ -56,7 +56,12 @@ void loop() {
 
 /*
  * Rekent het aantal graden om naar het aantal stappen
- * In ons voorbeeld van 45 graden: 64 / 5,625 = 1024 stappen
+ * 
+ * 28BYJ-48 motor heeft 5,625 graden per stap
+ * 360 graden / 5,625 = 64 stappen per omwenteling
+ * 
+ * Voorbeeld van degToSteps(45):
+ * (64 / 5,625) * 45 = 512 stappen
  */
 float degToSteps(float deg) {
   return (stepsPerRevolution / degreePerRevolution) * deg;
