@@ -1,5 +1,5 @@
 /*
- * Bas on Tech - Schuif potmeter
+ * Bas on Tech - HC-501 Bewegingssensor (PIR)
  * Deze les is onderdeel van de lessen op https://arduino-lessen.nl
  *  
  * (c) Copyright 2018 - Bas van Dijk / Bas on Tech
