@@ -2,7 +2,7 @@
  * Bas on Tech - LED Knipperen breadboard
  * Deze les is onderdeel van de lessen op https://arduino-lessen.nl
  *  
- * (c) Copyright 2018 - Bas van Dijk / Bas on Tech
+ * (c) Copyright 2019 - Bas van Dijk / Bas on Tech
  * Deze code en inhoud van de lessen mag zonder schriftelijke toestemming 
  * niet voor commerciele doeleinden worden gebruikt
  * 
