@@ -26,7 +26,7 @@
 #define motorPin4  11               // IN4 pin op de ULN2003A driver
 
 int stepsPerRevolution = 64;        // stappen per omwenteling
-int degreePerRevolution = 5.625;    // graden per omwenteling
+float degreePerRevolution = 5.625;  // graden per omwenteling
 
 /*
  * AccelStepper::FULL2WIRE (2) betekend een 2 wire stepper (2 pins nodig). 
