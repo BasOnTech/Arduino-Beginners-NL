@@ -19,6 +19,7 @@ int ledPin = LED_BUILTIN;     // Ingebouwde LED pin
 
 void setup() {
   Serial.begin(9600);         // Stel de seriële monitor in
+  pinMode(LED_BUILTIN, OUTPUT);
 }
 
 // Herhaal oneindig
