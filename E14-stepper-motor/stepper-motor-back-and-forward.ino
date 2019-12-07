@@ -29,11 +29,11 @@ int stepsPerRevolution = 64;        // stappen per omwenteling
 float degreePerRevolution = 5.625;  // graden per omwenteling
 
 /*
- * AccelStepper::FULL2WIRE (2) betekend een 2 wire stepper (2 pins nodig). 
- * AccelStepper::FULL3WIRE (3) betekend een 3 wire stepper, zoals een harde schijf motor (3 pins nodig). 
- * AccelStepper::FULL4WIRE (4) betekend een 4 wire stepper (4 pins nodig). 
- * AccelStepper::HALF3WIRE (6) betekend een 3 wire half stepper, zoals een harde schijf motor (3 pins nodig) 
- * AccelStepper::HALF4WIRE (8) betekend een 4 wire half stepper (4 pins nodig) 
+ * AccelStepper::FULL2WIRE (2) betekent een 2 wire stepper (2 pins nodig). 
+ * AccelStepper::FULL3WIRE (3) betekent een 3 wire stepper, zoals een harde schijf motor (3 pins nodig). 
+ * AccelStepper::FULL4WIRE (4) betekent een 4 wire stepper (4 pins nodig). 
+ * AccelStepper::HALF3WIRE (6) betekent een 3 wire half stepper, zoals een harde schijf motor (3 pins nodig) 
+ * AccelStepper::HALF4WIRE (8) betekent een 4 wire half stepper (4 pins nodig) 
  *
  * Standaard gebruikt AccelStepper de AccelStepper::FULL4WIRE (4 pins nodig).
  */
