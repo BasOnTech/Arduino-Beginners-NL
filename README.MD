@@ -1,3 +1,5 @@
+🇬🇧 For the English tutorials checkout https://arduino-tutorials.net
+
 # Nederlandstalige Arduino lessen
 
 Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van Arduino. Zie https://arduino-lessen.nl
@@ -70,5 +72,11 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 [![](https://i.ytimg.com/vi/ttiVOKlyohI/mqdefault.jpg)](https://www.youtube.com/watch?v=ttiVOKlyohI)
 - [Les 20: Lichtgevoelige weerstand (LDR) uitlezen](https://www.youtube.com/watch?v=HcoPGiV9SUU)  
 [![](https://i.ytimg.com/vi/HcoPGiV9SUU/mqdefault.jpg)](https://www.youtube.com/watch?v=HcoPGiV9SUU)
+- [Les 21: Voltage sensor uitlezen](https://www.youtube.com/watch?v=GyeyOUjbjmE)  
+[![](https://i.ytimg.com/vi/GyeyOUjbjmE/mqdefault.jpg)](https://www.youtube.com/watch?v=GyeyOUjbjmE)
+- [Les 22: Bewegingssensor (PIR) uitlezen](https://www.youtube.com/watch?v=O9jpO3UCh94)  
+[![](https://i.ytimg.com/vi/O9jpO3UCh94/mqdefault.jpg)](https://www.youtube.com/watch?v=O9jpO3UCh94)
+- [Les 23: Schuif potmeter uitlezen](https://www.youtube.com/watch?v=q3wFZ11Aydk)  
+[![](https://i.ytimg.com/vi/q3wFZ11Aydk/mqdefault.jpg)](https://www.youtube.com/watch?v=q3wFZ11Aydk)
 
 
