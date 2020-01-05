@@ -6,6 +6,8 @@ Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van A
 
 Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
 
+(c) Copyright 2018-2020 - Bas van Dijk / Bas on Tech
+
 ## Social media
 - YouTube:    https://www.youtube.com/c/BasOnTechNL
 - Facebook:   https://www.facebook.com/BasOnTechChannel
@@ -17,7 +19,6 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 
 ## Arduino Projecten overzicht
 [Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
-
 [![](https://i.ytimg.com/vi/WHSDtcwUx2Y/mqdefault.jpg)](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
 
 
