@@ -2,13 +2,20 @@
 
 -------
 
+Onderdeel van de Bas on Tech Arduino YouTube lessen op https://arduino-lessen.nl
+
+(c) Copyright 2018-2020 - Bas van Dijk / Bas on Tech
+
+Op deze lessen en code rust copyright. Het is niet toegestaan deze lessen commercieel te gebruiken zonder expliciete voorafgaande schriftelijke toestemming
+
+-------
+
 # Nederlandstalige Arduino lessen
 
 Deze YouTube serie leert je stap voor stap, met duidelijke uitleg de basis van Arduino. Zie https://arduino-lessen.nl
 
 Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/c/BasOnTechNL?sub_confirmation=1
 
-(c) Copyright 2018-2020 - Bas van Dijk / Bas on Tech
 
 ## Social media
 - YouTube:    https://www.youtube.com/c/BasOnTechNL
