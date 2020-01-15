@@ -18,8 +18,11 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 - [Twee contra fadende LED's](https://gist.github.com/BasOnTech/a5476405f6c6c5f4e8da0d87239b659d)  
 
 ## Arduino Projecten overzicht
-[Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
+[Leer een Arduino mini-weerstation maken](https://www.youtube.com/watch?v=WHSDtcwUx2Y)</br>
 [![](https://i.ytimg.com/vi/WHSDtcwUx2Y/mqdefault.jpg)](https://www.youtube.com/watch?v=WHSDtcwUx2Y)
+
+[Leer een Arduino stopwatch maken](https://www.youtube.com/watch?v=14LkftL5K1I)</br>
+[![](https://i.ytimg.com/vi/14LkftL5K1I/mqdefault.jpg)](https://www.youtube.com/watch?v=14LkftL5K1I)
 
 
 
