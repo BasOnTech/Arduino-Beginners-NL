@@ -1,4 +1,6 @@
-🇬🇧 For the English Arduino tutorials checkout https://arduino-tutorials.net
+🇬🇧 For the English Arduino video tutorials check https://arduino-tutorials.net
+
+-------
 
 # Nederlandstalige Arduino lessen
 
