@@ -122,5 +122,11 @@ Abonneer je direct op het Bas on Tech YouTube kanaal via http://www.youtube.com/
 [Les 23: Schuif potmeter uitlezen](https://www.youtube.com/watch?v=q3wFZ11Aydk)  
 [![](https://i.ytimg.com/vi/q3wFZ11Aydk/mqdefault.jpg)](https://www.youtube.com/watch?v=q3wFZ11Aydk)
 
+[Les 24: SG90 Tower Pro Servo Motor](https://www.youtube.com/watch?v=SeiX0QnevGY)  
+[![](https://i.ytimg.com/vi/SeiX0QnevGY/mqdefault.jpg)](https://www.youtube.com/watch?v=SeiX0QnevGY)
 
+[Les 25: SSD1331 Kleuren Oled Scherm](https://www.youtube.com/watch?v=N_GwXfLjQVY)  
+[![](https://i.ytimg.com/vi/N_GwXfLjQVY/mqdefault.jpg)](https://www.youtube.com/watch?v=N_GwXfLjQVY)
 
+[Les 26: 4x4 Matrix Keypad / Membraan toetsenbord](https://www.youtube.com/watch?v=FDI6rA4VXrU)  
+[![](https://i.ytimg.com/vi/FDI6rA4VXrU/mqdefault.jpg)](https://www.youtube.com/watch?v=FDI6rA4VXrU)
