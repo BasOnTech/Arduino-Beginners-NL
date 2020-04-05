@@ -77,7 +77,11 @@ void readButtonState() {
 
       // Als er geen meting loopt voor het bepalen of de knop lang is ingedrukt EN
       // Als de tijd dat de knop is ingedrukt kleiner is dan de minimale tijd die nodig is voor een lang ingedrukte knop
-      if (!buttonStateLongPress && buttonPressDuration < minButtonLongPressDuration) {
+      // Note: In de video staat:
+      //       if (!buttonStateLongPress && buttonPressDuration < minButtonLongPressDuration) {
+      //       omdat buttonStateLongPress op regel 75 op FALSE wordt gezet, is !buttonStateLongPress altijd TRUE
+      //       dit kan dus worden weggehaald.
+      if (buttonPressDuration < minButtonLongPressDuration) {
         Serial.println("Knop kort ingedrukt");
       }
     }
