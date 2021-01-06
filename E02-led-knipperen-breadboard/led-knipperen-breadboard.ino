@@ -16,7 +16,7 @@
 // De setup functie wordt eenmalig uitgevoerd als je programma start
 void setup() {
   // Initialiseer digitale pin LED_BUILTIN als een uitvoer
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(11, OUTPUT);
 }
 
 // De loop functie wordt oneindig herhaald
