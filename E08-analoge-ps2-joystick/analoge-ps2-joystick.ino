@@ -26,8 +26,8 @@
 
 // Definieer de pin-nummers
 const int swPin = 12;
-const int VrxPin = 5;
-const int VryPin = 0;
+const int VrxPin = A5;
+const int VryPin = A0;
 
 // Stel de variabelen in op hun beginwaarde
 int xDirection = 0;
